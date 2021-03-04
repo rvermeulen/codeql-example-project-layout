@@ -1,0 +1,3 @@
+name: some-other-pack-cpp
+version: 0.0.0
+libraryPathDependencies: common-cpp

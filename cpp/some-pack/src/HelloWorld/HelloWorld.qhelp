@@ -1,0 +1,29 @@
+<!DOCTYPE qhelp PUBLIC
+  "-//Semmle//qhelp//EN"
+  "qhelp.dtd">
+<qhelp>
+<overview>
+<p>Finds incorrect usage of the string 'Hello World'</p>
+
+</overview>
+<recommendation>
+
+<p>Switch to using the prefix 'Hello World'</p>
+
+</recommendation>
+<example>
+
+<p>The following example shows both a correct and incorrect way of using a 'Hello World' string.</p>
+
+<sample src="HelloWorldExample.cpp" />
+
+</example>
+<references>
+
+<li>
+Foo:
+<a href="https://">Bar</a>.
+</li>
+
+</references>
+</qhelp>

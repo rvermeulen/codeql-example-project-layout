@@ -1,0 +1,4 @@
+name: some-pack-cpp-tests
+version: 0.0.0
+libraryPathDependencies: some-pack-cpp
+extractor: cpp

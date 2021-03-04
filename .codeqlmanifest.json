@@ -1,0 +1,7 @@
+{
+    "provide": [
+        "codeql_modules/*/.codeqlmanifest.json",
+        "cpp/.codeqlmanifest.json",
+        "python/.codeqlmanifest.json"
+    ]
+}

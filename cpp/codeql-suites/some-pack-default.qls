@@ -1,0 +1,13 @@
+- description: Some pack queries
+- qlpack: some-pack-cpp
+- include:
+    kind:
+    - problem
+    - path-problem
+    precision:
+    - high
+    - very-high
+    problem.severity:
+    - error
+    tags contain:
+    - hello-world

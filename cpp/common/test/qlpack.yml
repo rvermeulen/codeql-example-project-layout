@@ -1,0 +1,4 @@
+name: common-cpp-tests
+version: 0.0.0
+libraryPathDependencies: common-cpp
+extractor: cpp
